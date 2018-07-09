@@ -12,7 +12,8 @@ Requires Node v10 or later.
 * To test, run `npm test`. 
 
 ### how to use API
-* to be added
+* Add a test png image to your hard drive titled 'test.png'.
+* On http://localhost:8888/start, choose your test.png file to display in the browser.
 
 ## Contributor
 Mariah Adams
